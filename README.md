@@ -1,1 +1,1 @@
-## Hello, this is my home page :)
+### I’m Naveen Radhakrishnan, a curious learner who builds from first principles.
